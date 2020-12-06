@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    background-color: lawngreen;
+}
+img {
+    width: 600px;
+    height: 480px;
+    padding: 1.5px;
+}
+ul, li{
+    padding: 1.5px;
+}
+
